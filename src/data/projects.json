@@ -1,0 +1,10 @@
+[
+    {
+      "title": "Snails.cc",
+      "imageSrc": "projects/SnailsCC.png",
+      "description": "Chat WebApp projects.",
+      "skills": ["React", "Firebase", "Cloudinary","Netliify"],
+      "demo": "https://stunning-treacle-b70282.netlify.app/",
+      "source": "https://github.com/Ganesh7bits/WeChat"
+    }
+  ]
